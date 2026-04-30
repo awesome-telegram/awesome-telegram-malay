@@ -17,3 +17,7 @@ Senarai saluran, kumpulan dan bot Telegram dalam Bahasa Melayu.
 
 ## Bot Telegram
 
+| Nama | Penerangan | Telegram |
+|------|------------|----------|
+| Cyber Collector | Bot Telegram percuma untuk muat turun video TikTok (tanpa watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Tanpa daftar, tanpa iklan. [Laman Web](https://cybercollector.hitkey.io) | [Buka](https://t.me/cybercollectorbot) |
+
